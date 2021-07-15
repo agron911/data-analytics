@@ -63,3 +63,6 @@ def nextPermutation(nums):
         nums.reverse()
         return nums
 print(nextPermutation(list1))
+
+
+

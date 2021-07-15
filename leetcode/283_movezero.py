@@ -11,3 +11,6 @@ def move_zero(nums):
     return nums
 
 print(move_zero(list1))
+
+
+

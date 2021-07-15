@@ -17,18 +17,3 @@ def summary_array(list1):
     return range_str
 
 print(summary_array(list1))
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
